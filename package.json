@@ -7,10 +7,13 @@
     "lint": "prettier --check \"src/**/*.js\""
   },
   "dependencies": {
-    "canvas-confetti": "^1.2.0"
+    "canvas-confetti": "^1.2.0",
+    "tailwindcss": "^1.4.6"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
+    "postcss": "^7.0.32",
+    "postcss-cli": "^7.1.1",
     "prettier": "^2.0.5",
     "snowpack": "^2.6.4"
   }
