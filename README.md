@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/TheDanO/oliver-chiro-snowpack/workflows/Node.js%20CI/badge.svg)
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
